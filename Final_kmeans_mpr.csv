@@ -1,0 +1,48 @@
+,location,Grand Total,predicted,Traffic Type
+0,azad maidan,1,1,Low
+1,bandra,17,0,High
+2,bhoiwada,2,1,Low
+3,bkc,10,3,Medium
+4,borivali,11,3,Medium
+5,byculla,1,1,Low
+6,chembur,28,2,Extreme
+7,chunabhatti,1,1,Low
+8,colaba,3,1,Low
+9,d.b.marg,2,1,Low
+10,dadar,26,2,Extreme
+11,dahisar,10,3,Medium
+12,deonar,1,1,Low
+13,dharavi,4,1,Low
+14,dindoshi,9,3,Medium
+15,ghatkopar,5,1,Low
+16,goregaon,20,0,High
+17,jogeshwari,12,3,Medium
+18,kalbadevi,3,1,Low
+19,kandivali,8,3,Medium
+20,kanjurmarg,1,1,Low
+21,kurla,12,3,Medium
+22,mahim,3,1,Low
+23,azad maidan,3,1,Low
+24,malad,21,0,High
+25,malbarhill,1,1,Low
+26,mankhurd,7,3,Medium
+27,marinedrive,1,1,Low
+28,matunga,14,0,High
+29,MHB,1,1,Low
+30,MIDC,13,3,Medium
+31,mulund,14,0,High
+32,D.N. nagar,38,2,Extreme
+33,nagpada,3,1,Low
+34,oshiwara,8,3,Medium
+35,powai,10,3,Medium
+36,pydhunie,5,1,Low
+37,sahar police station,16,0,High
+38,sakinaka,9,3,Medium
+39,samtanagar,11,3,Medium
+40,Santacruz,17,0,High
+41,tardeo,12,3,Medium
+42,Trombey,1,1,Low
+43,vakola,10,3,Medium
+44,vikhroli,8,3,Medium
+45,wadala,4,1,Low
+46,worli,9,3,Medium
